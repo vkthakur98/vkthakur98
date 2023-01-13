@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Vivek Kumar.
+- 👋 Hi, I’m Vivek.
 - 👀 I’m interested in programming.
 - 🌱 I’m currently learning React js.
 <!---
