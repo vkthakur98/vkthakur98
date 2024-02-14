@@ -1,4 +1,4 @@
-- 👋 #Hi, I’m Vivek.
+- 👋 Hi, I’m Vivek.
 - 👀 I’m interested in programming, and want to learn more things programming and web development.
 - 🌱 I’m currently learning React js.
 <!---
